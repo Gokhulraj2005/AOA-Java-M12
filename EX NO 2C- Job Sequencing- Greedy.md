@@ -21,8 +21,8 @@ To write a Java program using the **Greedy Approach** to schedule jobs before th
 ## Program:
 ```
 /*
-Developed by: Ashwin Akash M
-Register Number:  212223230024
+Developed by: GOKHULRAJ V
+Register Number:  212223230064
 */
 import java.util.*;
 
